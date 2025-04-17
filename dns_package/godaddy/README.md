@@ -1,6 +1,6 @@
-先實例化client選項 再透過寫好的function去達到想要的功能
+Instance a client option,then reach the goal you want through an existing function
 
-| Script Name | 功能說明 | 備註 |
+| Script Name | Function explain | Note |
 | - | - | - |
-|[domain.py](./domain.py)|確證域名是可用的、取得域名資訊、購買域名|
-|[update_nameserver.py](./update_nameserver.py)|從godaddy轉移nameserver到nsone or dnspod|
+|[domain.py](./domain.py) | ensuring a domain is available、get domain information、buying a domain |  
+|[update_nameserver.py](./update_nameserver.py) | move nameserver from godaddy to nsone or dnspod |  

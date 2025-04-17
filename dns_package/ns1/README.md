@@ -1,6 +1,6 @@
-先實例化client選項 再透過寫好的function去達到想要的功能
+Instance a client option,then reach the goal you want through an existing function
 
-| Script Name | 功能說明 | 備註 |
+| Script Name | Function explain | Note |
 | - | - | - |
-|[records_answers.py](./records_answers.py)|新增、編輯、取得、刪除域名,新增、編輯、刪除紀錄|
-|[zone.py](./zone.py)|新增、取得、刪除各類型zone|
+|[records_answers.py](./records_answers.py) | add、edit、get、delete domain,add、edit、delete record | 
+|[zone.py](./zone.py) | add、get、delete types of zone | 
